@@ -100,6 +100,14 @@ void main() {
       'flutter',
       'flutter_riverpod',
       'go_router',
+      'drift',
+      'sqlite3_flutter_libs',
+      'path_provider',
+      'path',
+      'uuid',
+      'intl',
+      'csv',
+      'crypto',
     });
 
     for (final manifestPath in <String>[
